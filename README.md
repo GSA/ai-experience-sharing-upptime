@@ -1,6 +1,6 @@
 # [📈 Live Status](https://gsa.github.io/ai-experience-sharing-upptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [U.S. General Services Administration](https://open.gsa.gov), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [U.S. General Services Administration](https://open.gsa.gov) AI Portfolio, powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/gsa/ai-experience-sharing-upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/gsa/ai-experience-sharing-upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
