@@ -7,7 +7,7 @@ sites:
     url: https://strapi-api-host-prod.app.cloud.gov
 
 status-website:
-  baseUrl: /upptime
+  baseUrl: /ai-experience-sharing-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: AI Portfolio Status
   introTitle: AI Portfolio Status
