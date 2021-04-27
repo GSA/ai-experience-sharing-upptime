@@ -1,7 +1,7 @@
-url: https://strapi-api-host-staging-bad-url.app.cloud.gov
-status: down
-code: 404
-responseTime: 347
-lastUpdated: 2021-04-27T19:21:41.224Z
+url: https://strapi-api-host-staging.app.cloud.gov
+status: up
+code: 200
+responseTime: 319
+lastUpdated: 2021-04-27T19:27:53.692Z
 startTime: Tue Apr 27 2021 16:32:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
