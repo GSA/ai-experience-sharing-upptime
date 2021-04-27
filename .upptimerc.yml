@@ -6,7 +6,7 @@ sites:
   - name: AI Portfolio
     url: https://strapi-api-host-prod.app.cloud.gov
   - name: AI Portfolio Alert Test
-    url: https://strapi-api-host-staging-bad-url.app.cloud.gov
+    url: https://strapi-api-host-staging.app.cloud.gov
 
 
 assignees:
