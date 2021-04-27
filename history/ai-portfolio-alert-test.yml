@@ -1,7 +1,7 @@
-url: https://strapi-api-host-staging.app.cloud.gov
-status: up
-code: 200
-responseTime: 386
-lastUpdated: 2021-04-27T18:35:25.813Z
+url: https://strapi-api-host-staging-1.app.cloud.gov
+status: down
+code: 404
+responseTime: 401
+lastUpdated: 2021-04-27T18:52:35.841Z
 startTime: Tue Apr 27 2021 16:32:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
