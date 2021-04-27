@@ -19,20 +19,20 @@
   },
   {
     "name": "AI Portfolio Alert Test",
-    "url": "https://strapi-api-host-staging-1.app.cloud.gov",
-    "icon": "https://favicons.githubusercontent.com/strapi-api-host-staging-1.app.cloud.gov",
+    "url": "https://strapi-api-host-staging.app.cloud.gov",
+    "icon": "https://favicons.githubusercontent.com/strapi-api-host-staging.app.cloud.gov",
     "slug": "ai-portfolio-alert-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 354,
-    "timeWeek": 354,
-    "timeMonth": 354,
-    "timeYear": 354,
+    "time": 318,
+    "timeDay": 318,
+    "timeWeek": 318,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   }
 ]
