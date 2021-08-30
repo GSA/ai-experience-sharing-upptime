@@ -10,8 +10,6 @@ sites:
     url: https://strapi-api-host-staging.app.cloud.gov
     __dangerous__body_down: "Page not found"
 
-
-
 assignees:
   - taylor-work
 
