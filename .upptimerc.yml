@@ -6,6 +6,8 @@ sites:
   - name: AI Portfolio
     url: https://strapi-api-host-prod.app.cloud.gov
     __dangerous__body_down: "Page not found"
+  - name: AI Portfolio API
+    url: "https://strapi-api-host-prod.app.cloud.gov/api-pages?slug=homepage"
   - name: AI Portfolio Alert Test
     url: https://strapi-api-host-staging.app.cloud.gov
     __dangerous__body_down: "Page not found"
